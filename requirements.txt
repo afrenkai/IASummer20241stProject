@@ -2,3 +2,4 @@ yfinance==0.2.38
 numpy
 scikit-learn
 matplotlib
+datetime
